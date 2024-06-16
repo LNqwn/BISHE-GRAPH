@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T09:01:14.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fFSXeCeZscUwcPhHwnP5" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T09:13:37.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xTUnfOVHqdLq2c775WUo" version="24.4.4" type="github">
   <diagram name="第 1 页" id="r94Lq3bYH1X18cxxta-d">
     <mxGraphModel dx="769" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="fu07h0unC916AI2t_kpa-14" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="270.0000000000001" y="310" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fu07h0unC916AI2t_kpa-15" value="创建历史快照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="fu07h0unC916AI2t_kpa-15" value="划分时间快照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fu07h0unC916AI2t_kpa-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=openThin;endFill=0;" parent="1" source="fu07h0unC916AI2t_kpa-17" target="fu07h0unC916AI2t_kpa-18" edge="1">
