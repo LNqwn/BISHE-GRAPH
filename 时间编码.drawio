@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="第 1 页" id="FakX7YbysRLer-4zPepX">
     <mxGraphModel dx="1476" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,6 +246,40 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="839" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OxlbnCUemV9xrFrsWHjO" name="第 2 页">
+    <mxGraphModel dx="771" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-1" value="t" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-7" y="62" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;" edge="1" parent="1" source="PWLtMKIthnAhJvoYCbjD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6.5" y="90.13332748413086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-2" value="s" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="179" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-4" value="&lt;br&gt;&lt;div&gt;节点：t&lt;/div&gt;&lt;div&gt;时间戳：t&lt;sub&gt;t&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="57" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-5" value="&lt;br&gt;&lt;div&gt;节点：s&lt;/div&gt;&lt;div&gt;时间戳：t&lt;sub&gt;s&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="174" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="152" as="sourcePoint" />
+            <mxPoint x="60" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWLtMKIthnAhJvoYCbjD-7" value="∆T=|t&lt;sub&gt;t&lt;/sub&gt;&amp;nbsp;- t&lt;sub&gt;s&lt;/sub&gt;|" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="46" y="134" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
