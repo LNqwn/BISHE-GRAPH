@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="wHzBXlku00ZtSIDsFbDa">
-    <mxGraphModel dx="1201" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,14 +23,14 @@
         <mxCell id="oWhIIgTF0E4kg4fIcXJA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="150" width="181.5" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="oWhIIgTF0E4kg4fIcXJA-4" value="知识图谱可视化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="160" width="162" height="31" as="geometry" />
+        <mxCell id="oWhIIgTF0E4kg4fIcXJA-4" value="知识可视化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="161" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oWhIIgTF0E4kg4fIcXJA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="233.5" y="290" width="136.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="oWhIIgTF0E4kg4fIcXJA-10" value="知识图谱推理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="211.75" y="-30" width="150" height="30" as="geometry" />
+        <mxCell id="oWhIIgTF0E4kg4fIcXJA-10" value="知识推理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="226.75" y="-30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oWhIIgTF0E4kg4fIcXJA-11" value="知识查询模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="241.75" y="290" width="120" height="30" as="geometry" />
