@@ -2591,6 +2591,18 @@
         <mxCell id="hsUUEpuA6uZsiGpc8uPx-214" value="&lt;font&gt;答案实体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="hsUUEpuA6uZsiGpc8uPx-1">
           <mxGeometry x="656" y="128" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H0xCVEnob9F7jSzFUngd-4" value="$$\ell =0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="hsUUEpuA6uZsiGpc8uPx-1">
+          <mxGeometry x="-122" y="-302" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xCVEnob9F7jSzFUngd-5" value="$$\ell =1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="hsUUEpuA6uZsiGpc8uPx-1">
+          <mxGeometry x="-106" y="-320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xCVEnob9F7jSzFUngd-6" value="$$\cdots$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="hsUUEpuA6uZsiGpc8uPx-1">
+          <mxGeometry x="-96" y="-332" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xCVEnob9F7jSzFUngd-7" value="$$\ell =L$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="hsUUEpuA6uZsiGpc8uPx-1">
+          <mxGeometry x="-90" y="-341" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
