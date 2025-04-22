@@ -1,9 +1,183 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="13Me3H4euSmog2mDdZ27">
-    <mxGraphModel>
+    <mxGraphModel dx="1840" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;dashed=1;endArrow=openThin;endFill=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-6" target="9p_O4pKi8Kh295ij6-kN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;exitX=0.458;exitY=-0.012;exitDx=0;exitDy=0;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitPerimeter=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-6" target="9p_O4pKi8Kh295ij6-kN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61.5" y="-324" as="sourcePoint" />
+            <mxPoint x="165" y="-358.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="-324" />
+              <mxPoint x="50" y="-324" />
+              <mxPoint x="50" y="-353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitX=0.456;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-6" target="9p_O4pKi8Kh295ij6-kN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="51" y="-270" />
+              <mxPoint x="50" y="-270" />
+              <mxPoint x="50" y="-237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-6" value="&lt;font&gt;美国&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-322" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-8" target="9p_O4pKi8Kh295ij6-kN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;特朗普&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=宋体;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-376" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;拜登&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-322" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-11" target="9p_O4pKi8Kh295ij6-kN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.73338317871094" y="-283.866641998291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-11" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;特鲁多&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-260" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-13" target="9p_O4pKi8Kh295ij6-kN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-13" value="&lt;font&gt;加拿大&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="102" y="-260" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-14" value="？" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-324" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-15" value="&lt;font&gt;总统,2016&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="86" y="-380" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-16" value="&lt;font&gt;继任,2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-17" value="&lt;font&gt;出生,1942&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-324" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-18" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;建立外交关系&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;1927&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-19" value="&lt;font&gt;首相,2015&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="132" y="-260" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-20" value="&lt;font&gt;访问,2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-21" value="&lt;font&gt;总统,2023&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-331" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-9" target="9p_O4pKi8Kh295ij6-kN-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="-270" as="sourcePoint" />
+            <mxPoint x="475" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;dashed=1;endArrow=openThin;endFill=0;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-29" target="9p_O4pKi8Kh295ij6-kN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;exitX=0.458;exitY=-0.012;exitDx=0;exitDy=0;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitPerimeter=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-29" target="9p_O4pKi8Kh295ij6-kN-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61.5" y="-124" as="sourcePoint" />
+            <mxPoint x="165" y="-158.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="-124" />
+              <mxPoint x="50" y="-124" />
+              <mxPoint x="50" y="-153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitX=0.456;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-29" target="9p_O4pKi8Kh295ij6-kN-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="51" y="-70" />
+              <mxPoint x="50" y="-70" />
+              <mxPoint x="50" y="-37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-29" value="&lt;font&gt;法国&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-122" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-31" target="9p_O4pKi8Kh295ij6-kN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-31" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;奥朗德&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=宋体;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-176" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-32" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;马克龙&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-122" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-34" target="9p_O4pKi8Kh295ij6-kN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.73338317871094" y="-83.86664199829102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-34" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font&gt;阿尔巴尼斯&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=宋体;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-60" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-36" target="9p_O4pKi8Kh295ij6-kN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-36" value="&lt;font&gt;澳大利亚&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="102" y="-60" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-37" value="？" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-124" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-38" value="&lt;font&gt;总统,2012&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="86" y="-180" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-39" value="&lt;font&gt;继任,2017&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-40" value="&lt;font&gt;出生,1977&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-124" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-41" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;建立外交关系&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;1842&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-42" value="&lt;font&gt;首相,2022&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="132" y="-60" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-43" value="&lt;font&gt;访问,2022&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-44" value="&lt;font&gt;总统,2023&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-131" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9p_O4pKi8Kh295ij6-kN-32" target="9p_O4pKi8Kh295ij6-kN-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="-70" as="sourcePoint" />
+            <mxPoint x="475" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="-200" as="sourcePoint" />
+            <mxPoint x="400" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;(a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9p_O4pKi8Kh295ij6-kN-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;(b)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-176" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
