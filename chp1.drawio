@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="5">
   <diagram id="5qwSmJ7IPLqCKikzRa4v" name="第 5 页">
-    <mxGraphModel dx="2463" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2174" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,9 @@
         <mxCell id="zulreABV8OBc9VzJAdBU-56" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zulreABV8OBc9VzJAdBU-55" target="zulreABV8OBc9VzJAdBU-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zulreABV8OBc9VzJAdBU-82" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zulreABV8OBc9VzJAdBU-55" target="zulreABV8OBc9VzJAdBU-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zulreABV8OBc9VzJAdBU-55" value="中国" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="424" y="277.5" width="45" height="45" as="geometry" />
         </mxCell>
@@ -169,10 +172,10 @@
             <mxPoint x="880" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zulreABV8OBc9VzJAdBU-72" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;t-30&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="zulreABV8OBc9VzJAdBU-72" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;t-20&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zulreABV8OBc9VzJAdBU-74" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;t-29&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="zulreABV8OBc9VzJAdBU-74" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;t-19&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zulreABV8OBc9VzJAdBU-75" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span&gt;...&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -186,6 +189,12 @@
         </mxCell>
         <mxCell id="zulreABV8OBc9VzJAdBU-80" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span&gt;...&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zulreABV8OBc9VzJAdBU-81" value="日本" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="237.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zulreABV8OBc9VzJAdBU-83" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;访问&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="247.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
