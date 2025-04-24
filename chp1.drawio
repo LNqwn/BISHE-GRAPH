@@ -677,10 +677,10 @@
           <mxGeometry x="-70" y="-152" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ho5Ccqpw-ZfWJfE570Lg-34" value="&lt;font&gt;总统,2012&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="ho5Ccqpw-ZfWJfE570Lg-1">
-          <mxGeometry x="35" y="-220" width="77" height="30" as="geometry" />
+          <mxGeometry x="61" y="-200" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ho5Ccqpw-ZfWJfE570Lg-35" value="&lt;font&gt;继任,2017&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="ho5Ccqpw-ZfWJfE570Lg-1">
-          <mxGeometry x="224" y="-206" width="80" height="30" as="geometry" />
+          <mxGeometry x="224" y="-200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ho5Ccqpw-ZfWJfE570Lg-36" value="&lt;font&gt;出生,1977&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="ho5Ccqpw-ZfWJfE570Lg-1">
           <mxGeometry x="60" y="-161" width="114" height="30" as="geometry" />
